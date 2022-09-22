@@ -1,3 +1,30 @@
+# Intro to React JS
+
+    Create a new React Application:
+    Create a GIthub repo and commit those previous step files.
+    Create base layout for the login ( email box, password box, login button, basic styling ), you should use a UI Library like mui or ant
+    Make sure you identify all those potential components and split your code according to it.
+
+## React Challenge
+
+    Instead of just using CSS, let's implement your styles using SASS. Read installation manual and replace your .css files by .scss ones
+
+### Additional Resources
+
+    Check at Next JS documentation, a new approach for building Concise React Apps
+
+### CSS Challenge
+
+    Create another repo on your GitHub
+    Build your favorite magazine / video game cover using only HTML and CSS, remember the Semantic HTML Lesson and CSS Specificity
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
