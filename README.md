@@ -28,8 +28,20 @@
 
 ![](https://i.postimg.cc/x1j7gByN/creacion-mui-3.png) 
 
+![](https://i.postimg.cc/50PYRbgG/creacion-mui-4.png)
+
+![](https://i.postimg.cc/SNY2g0MT/creacion-mui-5.png)
+
+![](https://i.postimg.cc/T38ySkjR/creacion-mui-6.png)
+
+![](https://i.postimg.cc/jSzWrzvy/creacion-mui-7.png)
+
+![](https://i.postimg.cc/90RMgTrR/creacion-mui-8.png)
+
+
     4) Make sure you identify all those potential components and split your code according to it.
 
+![](https://i.postimg.cc/5yhth0CP/creacion-mui-9.png)
 
 
 ## React Challenge
@@ -44,10 +56,6 @@
 
     Create another repo on your GitHub
     Build your favorite magazine / video game cover using only HTML and CSS, remember the Semantic HTML Lesson and CSS Specificity
-
-
-
-
 
 
 
