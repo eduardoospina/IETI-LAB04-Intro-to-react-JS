@@ -1,9 +1,36 @@
-# Intro to React JS
+#IETI-LAB04-Introtoreact
 
-    Create a new React Application:
-    Create a GIthub repo and commit those previous step files.
-    Create base layout for the login ( email box, password box, login button, basic styling ), you should use a UI Library like mui or ant
-    Make sure you identify all those potential components and split your code according to it.
+
+##AUTOR.
+
+    - Eduardo Ospina Mejia
+
+
+## Intro to React JS
+
+    1) Create a new React Application:
+
+![](https://i.postimg.cc/kMRPrrb0/creacion-react-iuntro.png)
+
+![](https://i.postimg.cc/TY8Mfkjp/creacion-react-iuntro-2.png)
+
+![](https://i.postimg.cc/P5hg8PRH/creacion-react-iuntro-3.png)
+
+    2) Create a GIthub repo and commit those previous step files.
+
+![](https://i.postimg.cc/3xBPjYsv/creacion-push-react.png)
+
+    3) Create base layout for the login ( email box, password box, login button, basic styling ), you should use a UI Library like mui or ant
+   
+![](https://i.postimg.cc/5ycT30nf/creacion-mui-1.png)
+
+![](https://i.postimg.cc/ZKSXvWWc/creacion-mui-2.png)
+
+![](https://i.postimg.cc/x1j7gByN/creacion-mui-3.png) 
+
+    4) Make sure you identify all those potential components and split your code according to it.
+
+
 
 ## React Challenge
 
